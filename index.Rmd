@@ -1,0 +1,115 @@
+---
+title: "Climate Risk Lab IVU Dash"
+author: ""
+output: 
+  flexdashboard::flex_dashboard:
+    orientation: rows
+    social: menu
+    source_code: embed
+    vertical_layout: fill
+    theme: cerulean
+---
+
+```{r setup, include=FALSE}
+
+# Please ensure your data files are in the working directory before running the code
+
+# Importing data
+transition_risk_data = read.csv("Preparedness_of_countries_for_a_low-carbon_transition.csv")
+physical_risk_data = read.csv("Climate-driven_INFORM_Risk.csv")
+financial_risk_data = read.csv("Carbon_footprint_adjusted_loans_to_total_loans_for_deposit_takers.csv")
+
+
+# Calling packages
+suppressPackageStartupMessages(c(library(flexdashboard),
+library(shinythemes),
+library(tidyverse),
+library(plotly),
+library(maps),
+library(leaflet),
+library(leafpop),
+library(purrr),
+library(knitr),
+library(DT)))
+
+
+# Defining color pallete 
+#colors_palette = c("green4", "#6cc71c", "lawngreen", "greenyellow", "#adf20c", "#eff22e", "gold", "gold3", "#c75e1c", "#f52525", "brown")
+#colors_palette = c("forestgreen", "limegreen", "green", "olivedrab1", "greenyellow", "yellow", "yellow3", "gold", "firebrick1", "red", "red4")
+
+# Creating subsets
+transition_risk_data = transition_risk_data %>% 
+    dplyr::group_by(Country, Indicator)
+
+transition_risk_data_exposure = transition_risk_data %>% 
+    filter(Indicator == "Exposure")
+
+transition_risk_data_resilience = transition_risk_data %>% 
+    filter(Indicator == "Resilience")
+
+
+# Light grey boundaries
+l <- list(color = toRGB("grey"), width = 0.5)
+
+g <- list(
+    showframe = F,
+    showcoastlines = TRUE, 
+    coastlinecolor = "Black",
+    showland = TRUE,
+    landcolor = "White",
+    showocean= TRUE, 
+    oceancolor ="deepskyblue",
+    showlakes= TRUE, 
+    lakecolor ="deepskyblue",
+    showrivers= TRUE, 
+    rivercolor ="deepskyblue",
+    projection = list(type = 'Mercator')
+)
+
+```
+
+Row {.tabset .tabset-fade}
+-----------------------------------------------------------------------
+
+### Exposure to Transition Risk
+
+```{r}
+
+plot_exposure <- plot_geo(transition_risk_data_exposure)
+plot_exposure %>% add_trace(
+    z = ~ transition_risk_data_exposure$F2019, 
+    color = ~ transition_risk_data_exposure$F2019, 
+    colors = 'Blues',
+    text = ~ transition_risk_data_exposure$Country, 
+    locations = ~ transition_risk_data_exposure$ISO3, 
+    marker = list(line = l)) %>% 
+    colorbar(title = 'Exposure Index (as on 31-12-2019)', tickprefix = '') %>% 
+    layout(
+    title = 'Exposure to Low-Carbon Economy Transition',
+    xaxis = list(title = 'Scale from 0 (high resilience) to 1 (low resilience)'),
+    geo = g
+)
+
+```
+
+### Resilience to Transition Risk
+
+```{r}
+
+plot_resilience <- plot_geo(transition_risk_data_resilience)
+plot_resilience %>% add_trace(
+    z = ~ transition_risk_data_resilience$F2019, 
+    color = ~ transition_risk_data_resilience$F2019, 
+    colors = 'Blues',
+    text = ~ transition_risk_data_resilience$Country, 
+    locations = ~ transition_risk_data_resilience$ISO3, 
+    marker = list(line = l)) %>% 
+    colorbar(title = 'Resilience Index (as on 31-12-2019)', tickprefix = '') %>% 
+    layout(
+    title = 'Resilience to Low-Carbon Economy Transition',
+    xaxis = list(title = 'Scale from 0 (high resilience) to 1 (low resilience)'),
+    geo = g
+)
+
+```
+

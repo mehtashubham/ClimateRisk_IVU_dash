@@ -1,0 +1,765 @@
+﻿ObjectId,Country,ISO2,ISO3,Indicator,Code,Unit,F2020,F2021
+1,"Afghanistan, Islamic Rep. of",AF,AFG,Climate-driven Hazard & Exposure,ECFRMH_IX,Index,6.2,6.2
+2,"Afghanistan, Islamic Rep. of",AF,AFG,Climate-driven INFORM Risk Indicator,ECFRMR_IX,Index,7.2,7.2
+3,"Afghanistan, Islamic Rep. of",AF,AFG,Lack of coping capacity,ECFRMC_IX,Index,7.3,7.3
+4,"Afghanistan, Islamic Rep. of",AF,AFG,Vulnerability,ECFRMV_IX,Index,8.2,8.4
+5,Albania,AL,ALB,Climate-driven Hazard & Exposure,ECFRMH_IX,Index,4.4,4.3
+6,Albania,AL,ALB,Climate-driven INFORM Risk Indicator,ECFRMR_IX,Index,3,2.9
+7,Albania,AL,ALB,Lack of coping capacity,ECFRMC_IX,Index,4.1,4.4
+8,Albania,AL,ALB,Vulnerability,ECFRMV_IX,Index,1.5,1.3
+9,Algeria,DZ,DZA,Climate-driven Hazard & Exposure,ECFRMH_IX,Index,2.8,2.8
+10,Algeria,DZ,DZA,Climate-driven INFORM Risk Indicator,ECFRMR_IX,Index,3.3,3.3
+11,Algeria,DZ,DZA,Lack of coping capacity,ECFRMC_IX,Index,4.4,4.4
+12,Algeria,DZ,DZA,Vulnerability,ECFRMV_IX,Index,2.9,2.9
+13,Angola,AO,AGO,Climate-driven Hazard & Exposure,ECFRMH_IX,Index,3.2,3.2
+14,Angola,AO,AGO,Climate-driven INFORM Risk Indicator,ECFRMR_IX,Index,4.9,4.9
+15,Angola,AO,AGO,Lack of coping capacity,ECFRMC_IX,Index,6.9,6.9
+16,Angola,AO,AGO,Vulnerability,ECFRMV_IX,Index,5.2,5.2
+17,Antigua and Barbuda,AG,ATG,Climate-driven Hazard & Exposure,ECFRMH_IX,Index,4.2,4.2
+18,Antigua and Barbuda,AG,ATG,Climate-driven INFORM Risk Indicator,ECFRMR_IX,Index,2.8,2.7
+19,Antigua and Barbuda,AG,ATG,Lack of coping capacity,ECFRMC_IX,Index,3.5,3.5
+20,Antigua and Barbuda,AG,ATG,Vulnerability,ECFRMV_IX,Index,1.5,1.4
+21,Argentina,AR,ARG,Climate-driven Hazard & Exposure,ECFRMH_IX,Index,3.8,3.9
+22,Argentina,AR,ARG,Climate-driven INFORM Risk Indicator,ECFRMR_IX,Index,2.9,3.4
+23,Argentina,AR,ARG,Lack of coping capacity,ECFRMC_IX,Index,3.4,3.5
+24,Argentina,AR,ARG,Vulnerability,ECFRMV_IX,Index,1.9,2.8
+25,"Armenia, Rep. of",AM,ARM,Climate-driven Hazard & Exposure,ECFRMH_IX,Index,3.5,3.3
+26,"Armenia, Rep. of",AM,ARM,Climate-driven INFORM Risk Indicator,ECFRMR_IX,Index,3.4,3.9
+27,"Armenia, Rep. of",AM,ARM,Lack of coping capacity,ECFRMC_IX,Index,4.6,4.5
+28,"Armenia, Rep. of",AM,ARM,Vulnerability,ECFRMV_IX,Index,2.5,4.1
+29,Australia,AU,AUS,Climate-driven Hazard & Exposure,ECFRMH_IX,Index,5.6,5.6
+30,Australia,AU,AUS,Climate-driven INFORM Risk Indicator,ECFRMR_IX,Index,3,3
+31,Australia,AU,AUS,Lack of coping capacity,ECFRMC_IX,Index,2.1,2.1
+32,Australia,AU,AUS,Vulnerability,ECFRMV_IX,Index,2.4,2.2
+33,Austria,AT,AUT,Climate-driven Hazard & Exposure,ECFRMH_IX,Index,2.8,2.8
+34,Austria,AT,AUT,Climate-driven INFORM Risk Indicator,ECFRMR_IX,Index,2.2,2.2
+35,Austria,AT,AUT,Lack of coping capacity,ECFRMC_IX,Index,1.5,1.5
+36,Austria,AT,AUT,Vulnerability,ECFRMV_IX,Index,2.6,2.6
+37,"Azerbaijan, Rep. of",AZ,AZE,Climate-driven Hazard & Exposure,ECFRMH_IX,Index,3.7,3.6
+38,"Azerbaijan, Rep. of",AZ,AZE,Climate-driven INFORM Risk Indicator,ECFRMR_IX,Index,4.2,4.4
+39,"Azerbaijan, Rep. of",AZ,AZE,Lack of coping capacity,ECFRMC_IX,Index,4.5,4.6
+40,"Azerbaijan, Rep. of",AZ,AZE,Vulnerability,ECFRMV_IX,Index,4.3,5.2
+41,"Bahamas, The",BS,BHS,Climate-driven Hazard & Exposure,ECFRMH_IX,Index,4.9,4.9
+42,"Bahamas, The",BS,BHS,Climate-driven INFORM Risk Indicator,ECFRMR_IX,Index,3.3,3.1
+43,"Bahamas, The",BS,BHS,Lack of coping capacity,ECFRMC_IX,Index,3.2,3.2
+44,"Bahamas, The",BS,BHS,Vulnerability,ECFRMV_IX,Index,2.3,1.9
+45,"Bahrain, Kingdom of",BH,BHR,Climate-driven Hazard & Exposure,ECFRMH_IX,Index,0.1,0.1
+46,"Bahrain, Kingdom of",BH,BHR,Climate-driven INFORM Risk Indicator,ECFRMR_IX,Index,0.7,0.7
+47,"Bahrain, Kingdom of",BH,BHR,Lack of coping capacity,ECFRMC_IX,Index,3,3.1
+48,"Bahrain, Kingdom of",BH,BHR,Vulnerability,ECFRMV_IX,Index,1.1,1.2
+49,Bangladesh,BD,BGD,Climate-driven Hazard & Exposure,ECFRMH_IX,Index,8,7.9
+50,Bangladesh,BD,BGD,Climate-driven INFORM Risk Indicator,ECFRMR_IX,Index,6,6
+51,Bangladesh,BD,BGD,Lack of coping capacity,ECFRMC_IX,Index,5,5
+52,Bangladesh,BD,BGD,Vulnerability,ECFRMV_IX,Index,5.4,5.4
+53,Barbados,BB,BRB,Climate-driven Hazard & Exposure,ECFRMH_IX,Index,2,2
+54,Barbados,BB,BRB,Climate-driven INFORM Risk Indicator,ECFRMR_IX,Index,2,2
+55,Barbados,BB,BRB,Lack of coping capacity,ECFRMC_IX,Index,2.5,2.5
+56,Barbados,BB,BRB,Vulnerability,ECFRMV_IX,Index,1.5,1.5
+57,"Belarus, Rep. of",BY,BLR,Climate-driven Hazard & Exposure,ECFRMH_IX,Index,3.3,3
+58,"Belarus, Rep. of",BY,BLR,Climate-driven INFORM Risk Indicator,ECFRMR_IX,Index,2.3,2.1
+59,"Belarus, Rep. of",BY,BLR,Lack of coping capacity,ECFRMC_IX,Index,2.8,2.7
+60,"Belarus, Rep. of",BY,BLR,Vulnerability,ECFRMV_IX,Index,1.3,1.2
+61,Belgium,BE,BEL,Climate-driven Hazard & Exposure,ECFRMH_IX,Index,1.8,1.8
+62,Belgium,BE,BEL,Climate-driven INFORM Risk Indicator,ECFRMR_IX,Index,1.9,1.9
+63,Belgium,BE,BEL,Lack of coping capacity,ECFRMC_IX,Index,1.8,1.8
+64,Belgium,BE,BEL,Vulnerability,ECFRMV_IX,Index,2,2.1
+65,Belize,BZ,BLZ,Climate-driven Hazard & Exposure,ECFRMH_IX,Index,6.6,6.6
+66,Belize,BZ,BLZ,Climate-driven INFORM Risk Indicator,ECFRMR_IX,Index,4.7,5
+67,Belize,BZ,BLZ,Lack of coping capacity,ECFRMC_IX,Index,5.1,5.2
+68,Belize,BZ,BLZ,Vulnerability,ECFRMV_IX,Index,3,3.6
+69,Benin,BJ,BEN,Climate-driven Hazard & Exposure,ECFRMH_IX,Index,2.3,2.3
+70,Benin,BJ,BEN,Climate-driven INFORM Risk Indicator,ECFRMR_IX,Index,4.2,4.2
+71,Benin,BJ,BEN,Lack of coping capacity,ECFRMC_IX,Index,6.7,6.8
+72,Benin,BJ,BEN,Vulnerability,ECFRMV_IX,Index,4.8,4.9
+73,Bhutan,BT,BTN,Climate-driven Hazard & Exposure,ECFRMH_IX,Index,2.1,2.1
+74,Bhutan,BT,BTN,Climate-driven INFORM Risk Indicator,ECFRMR_IX,Index,3.2,3.2
+75,Bhutan,BT,BTN,Lack of coping capacity,ECFRMC_IX,Index,4.5,4.6
+76,Bhutan,BT,BTN,Vulnerability,ECFRMV_IX,Index,3.5,3.5
+77,Bolivia,BO,BOL,Climate-driven Hazard & Exposure,ECFRMH_IX,Index,4.5,4.5
+78,Bolivia,BO,BOL,Climate-driven INFORM Risk Indicator,ECFRMR_IX,Index,4.2,4.5
+79,Bolivia,BO,BOL,Lack of coping capacity,ECFRMC_IX,Index,5.3,5.5
+80,Bolivia,BO,BOL,Vulnerability,ECFRMV_IX,Index,3.2,3.6
+81,Bosnia and Herzegovina,BA,BIH,Climate-driven Hazard & Exposure,ECFRMH_IX,Index,4,3.9
+82,Bosnia and Herzegovina,BA,BIH,Climate-driven INFORM Risk Indicator,ECFRMR_IX,Index,4.1,4.1
+83,Bosnia and Herzegovina,BA,BIH,Lack of coping capacity,ECFRMC_IX,Index,4.7,4.7
+84,Bosnia and Herzegovina,BA,BIH,Vulnerability,ECFRMV_IX,Index,3.7,3.7
+85,Botswana,BW,BWA,Climate-driven Hazard & Exposure,ECFRMH_IX,Index,3.8,3.8
+86,Botswana,BW,BWA,Climate-driven INFORM Risk Indicator,ECFRMR_IX,Index,4,4
+87,Botswana,BW,BWA,Lack of coping capacity,ECFRMC_IX,Index,4.6,4.6
+88,Botswana,BW,BWA,Vulnerability,ECFRMV_IX,Index,3.7,3.7
+89,Brazil,BR,BRA,Climate-driven Hazard & Exposure,ECFRMH_IX,Index,5.1,5.1
+90,Brazil,BR,BRA,Climate-driven INFORM Risk Indicator,ECFRMR_IX,Index,4.2,4.4
+91,Brazil,BR,BRA,Lack of coping capacity,ECFRMC_IX,Index,4.3,4.3
+92,Brazil,BR,BRA,Vulnerability,ECFRMV_IX,Index,3.5,3.8
+93,Brunei Darussalam,BN,BRN,Climate-driven Hazard & Exposure,ECFRMH_IX,Index,2.1,1.9
+94,Brunei Darussalam,BN,BRN,Climate-driven INFORM Risk Indicator,ECFRMR_IX,Index,1.9,1.9
+95,Brunei Darussalam,BN,BRN,Lack of coping capacity,ECFRMC_IX,Index,3.5,3.4
+96,Brunei Darussalam,BN,BRN,Vulnerability,ECFRMV_IX,Index,0.9,1
+97,Bulgaria,BG,BGR,Climate-driven Hazard & Exposure,ECFRMH_IX,Index,2.9,2.8
+98,Bulgaria,BG,BGR,Climate-driven INFORM Risk Indicator,ECFRMR_IX,Index,2.8,2.7
+99,Bulgaria,BG,BGR,Lack of coping capacity,ECFRMC_IX,Index,3,3
+100,Bulgaria,BG,BGR,Vulnerability,ECFRMV_IX,Index,2.4,2.3
+101,Burkina Faso,BF,BFA,Climate-driven Hazard & Exposure,ECFRMH_IX,Index,4,3.7
+102,Burkina Faso,BF,BFA,Climate-driven INFORM Risk Indicator,ECFRMR_IX,Index,5.7,5.6
+103,Burkina Faso,BF,BFA,Lack of coping capacity,ECFRMC_IX,Index,6.5,6.5
+104,Burkina Faso,BF,BFA,Vulnerability,ECFRMV_IX,Index,7.1,7.4
+105,Burundi,BI,BDI,Climate-driven Hazard & Exposure,ECFRMH_IX,Index,2.7,2.7
+106,Burundi,BI,BDI,Climate-driven INFORM Risk Indicator,ECFRMR_IX,Index,4.9,4.9
+107,Burundi,BI,BDI,Lack of coping capacity,ECFRMC_IX,Index,6.9,6.9
+108,Burundi,BI,BDI,Vulnerability,ECFRMV_IX,Index,6.5,6.4
+109,Cabo Verde,CV,CPV,Climate-driven Hazard & Exposure,ECFRMH_IX,Index,1.2,1.3
+110,Cabo Verde,CV,CPV,Climate-driven INFORM Risk Indicator,ECFRMR_IX,Index,2.4,2.5
+111,Cabo Verde,CV,CPV,Lack of coping capacity,ECFRMC_IX,Index,3.8,3.8
+112,Cabo Verde,CV,CPV,Vulnerability,ECFRMV_IX,Index,3.1,3.1
+113,Cambodia,KH,KHM,Climate-driven Hazard & Exposure,ECFRMH_IX,Index,6.9,6.9
+114,Cambodia,KH,KHM,Climate-driven INFORM Risk Indicator,ECFRMR_IX,Index,5.5,5.5
+115,Cambodia,KH,KHM,Lack of coping capacity,ECFRMC_IX,Index,6.1,6.1
+116,Cambodia,KH,KHM,Vulnerability,ECFRMV_IX,Index,4,4
+117,Cameroon,CM,CMR,Climate-driven Hazard & Exposure,ECFRMH_IX,Index,3.4,3.4
+118,Cameroon,CM,CMR,Climate-driven INFORM Risk Indicator,ECFRMR_IX,Index,5.2,5.2
+119,Cameroon,CM,CMR,Lack of coping capacity,ECFRMC_IX,Index,6,6.1
+120,Cameroon,CM,CMR,Vulnerability,ECFRMV_IX,Index,6.7,6.7
+121,Canada,CA,CAN,Climate-driven Hazard & Exposure,ECFRMH_IX,Index,3.8,3.7
+122,Canada,CA,CAN,Climate-driven INFORM Risk Indicator,ECFRMR_IX,Index,2.7,2.7
+123,Canada,CA,CAN,Lack of coping capacity,ECFRMC_IX,Index,2.3,2.4
+124,Canada,CA,CAN,Vulnerability,ECFRMV_IX,Index,2.3,2.3
+125,Central African Rep.,CF,CAF,Climate-driven Hazard & Exposure,ECFRMH_IX,Index,2.6,2.5
+126,Central African Rep.,CF,CAF,Climate-driven INFORM Risk Indicator,ECFRMR_IX,Index,5.9,5.8
+127,Central African Rep.,CF,CAF,Lack of coping capacity,ECFRMC_IX,Index,8.7,8.7
+128,Central African Rep.,CF,CAF,Vulnerability,ECFRMV_IX,Index,9,8.8
+129,Chad,TD,TCD,Climate-driven Hazard & Exposure,ECFRMH_IX,Index,5.2,4.9
+130,Chad,TD,TCD,Climate-driven INFORM Risk Indicator,ECFRMR_IX,Index,7.1,6.9
+131,Chad,TD,TCD,Lack of coping capacity,ECFRMC_IX,Index,9,8.9
+132,Chad,TD,TCD,Vulnerability,ECFRMV_IX,Index,7.7,7.6
+133,Chile,CL,CHL,Climate-driven Hazard & Exposure,ECFRMH_IX,Index,2.4,2.4
+134,Chile,CL,CHL,Climate-driven INFORM Risk Indicator,ECFRMR_IX,Index,2.3,2.9
+135,Chile,CL,CHL,Lack of coping capacity,ECFRMC_IX,Index,2.8,2.8
+136,Chile,CL,CHL,Vulnerability,ECFRMV_IX,Index,1.9,3.7
+137,"China, P.R.: Mainland",CN,CHN,Climate-driven Hazard & Exposure,ECFRMH_IX,Index,7.4,7.4
+138,"China, P.R.: Mainland",CN,CHN,Climate-driven INFORM Risk Indicator,ECFRMR_IX,Index,4.3,4.3
+139,"China, P.R.: Mainland",CN,CHN,Lack of coping capacity,ECFRMC_IX,Index,3.5,3.5
+140,"China, P.R.: Mainland",CN,CHN,Vulnerability,ECFRMV_IX,Index,3,3
+141,Colombia,CO,COL,Climate-driven Hazard & Exposure,ECFRMH_IX,Index,4.6,4.6
+142,Colombia,CO,COL,Climate-driven INFORM Risk Indicator,ECFRMR_IX,Index,4.7,4.7
+143,Colombia,CO,COL,Lack of coping capacity,ECFRMC_IX,Index,3.7,3.7
+144,Colombia,CO,COL,Vulnerability,ECFRMV_IX,Index,6.1,6.2
+145,"Comoros, Union of the",KM,COM,Climate-driven Hazard & Exposure,ECFRMH_IX,Index,1.1,1.1
+146,"Comoros, Union of the",KM,COM,Climate-driven INFORM Risk Indicator,ECFRMR_IX,Index,3.5,3.5
+147,"Comoros, Union of the",KM,COM,Lack of coping capacity,ECFRMC_IX,Index,7.1,7.1
+148,"Comoros, Union of the",KM,COM,Vulnerability,ECFRMV_IX,Index,5.3,5.3
+149,"Congo, Dem. Rep. of the",CD,COD,Climate-driven Hazard & Exposure,ECFRMH_IX,Index,3.8,3.8
+150,"Congo, Dem. Rep. of the",CD,COD,Climate-driven INFORM Risk Indicator,ECFRMR_IX,Index,6.2,6.1
+151,"Congo, Dem. Rep. of the",CD,COD,Lack of coping capacity,ECFRMC_IX,Index,8,8.1
+152,"Congo, Dem. Rep. of the",CD,COD,Vulnerability,ECFRMV_IX,Index,7.8,7.4
+153,"Congo, Rep. of",CG,COG,Climate-driven Hazard & Exposure,ECFRMH_IX,Index,4.6,4.6
+154,"Congo, Rep. of",CG,COG,Climate-driven INFORM Risk Indicator,ECFRMR_IX,Index,5.9,6.1
+155,"Congo, Rep. of",CG,COG,Lack of coping capacity,ECFRMC_IX,Index,7.3,7.6
+156,"Congo, Rep. of",CG,COG,Vulnerability,ECFRMV_IX,Index,6,6.6
+157,Costa Rica,CR,CRI,Climate-driven Hazard & Exposure,ECFRMH_IX,Index,2.1,2.1
+158,Costa Rica,CR,CRI,Climate-driven INFORM Risk Indicator,ECFRMR_IX,Index,2.6,2.7
+159,Costa Rica,CR,CRI,Lack of coping capacity,ECFRMC_IX,Index,2.6,2.6
+160,Costa Rica,CR,CRI,Vulnerability,ECFRMV_IX,Index,3.4,3.5
+161,Côte d'Ivoire,CI,CIV,Climate-driven Hazard & Exposure,ECFRMH_IX,Index,2.6,2.6
+162,Côte d'Ivoire,CI,CIV,Climate-driven INFORM Risk Indicator,ECFRMR_IX,Index,4.7,4.7
+163,Côte d'Ivoire,CI,CIV,Lack of coping capacity,ECFRMC_IX,Index,6.8,6.8
+164,Côte d'Ivoire,CI,CIV,Vulnerability,ECFRMV_IX,Index,5.9,5.8
+165,"Croatia, Rep. of",HR,HRV,Climate-driven Hazard & Exposure,ECFRMH_IX,Index,3.8,3.7
+166,"Croatia, Rep. of",HR,HRV,Climate-driven INFORM Risk Indicator,ECFRMR_IX,Index,2.5,2.5
+167,"Croatia, Rep. of",HR,HRV,Lack of coping capacity,ECFRMC_IX,Index,3.1,3.1
+168,"Croatia, Rep. of",HR,HRV,Vulnerability,ECFRMV_IX,Index,1.3,1.4
+169,Cuba,CU,CUB,Climate-driven Hazard & Exposure,ECFRMH_IX,Index,5.7,5.7
+170,Cuba,CU,CUB,Climate-driven INFORM Risk Indicator,ECFRMR_IX,Index,2.8,2.8
+171,Cuba,CU,CUB,Lack of coping capacity,ECFRMC_IX,Index,3,2.9
+172,Cuba,CU,CUB,Vulnerability,ECFRMV_IX,Index,1.3,1.3
+173,Cyprus,CY,CYP,Climate-driven Hazard & Exposure,ECFRMH_IX,Index,1,1.1
+174,Cyprus,CY,CYP,Climate-driven INFORM Risk Indicator,ECFRMR_IX,Index,2.2,2.2
+175,Cyprus,CY,CYP,Lack of coping capacity,ECFRMC_IX,Index,2.5,2.5
+176,Cyprus,CY,CYP,Vulnerability,ECFRMV_IX,Index,4.2,4.1
+177,Czech Rep.,CZ,CZE,Climate-driven Hazard & Exposure,ECFRMH_IX,Index,2.6,2.6
+178,Czech Rep.,CZ,CZE,Climate-driven INFORM Risk Indicator,ECFRMR_IX,Index,1.7,1.6
+179,Czech Rep.,CZ,CZE,Lack of coping capacity,ECFRMC_IX,Index,2.1,2
+180,Czech Rep.,CZ,CZE,Vulnerability,ECFRMV_IX,Index,0.9,0.8
+181,Denmark,DK,DNK,Climate-driven Hazard & Exposure,ECFRMH_IX,Index,2,1.7
+182,Denmark,DK,DNK,Climate-driven INFORM Risk Indicator,ECFRMR_IX,Index,1.7,1.6
+183,Denmark,DK,DNK,Lack of coping capacity,ECFRMC_IX,Index,1.3,1.3
+184,Denmark,DK,DNK,Vulnerability,ECFRMV_IX,Index,1.8,1.8
+185,Djibouti,DJ,DJI,Climate-driven Hazard & Exposure,ECFRMH_IX,Index,4,4
+186,Djibouti,DJ,DJI,Climate-driven INFORM Risk Indicator,ECFRMR_IX,Index,5.4,5.3
+187,Djibouti,DJ,DJI,Lack of coping capacity,ECFRMC_IX,Index,6.1,6.1
+188,Djibouti,DJ,DJI,Vulnerability,ECFRMV_IX,Index,6.3,6.1
+189,Dominica,DM,DMA,Climate-driven Hazard & Exposure,ECFRMH_IX,Index,3.6,3.6
+190,Dominica,DM,DMA,Climate-driven INFORM Risk Indicator,ECFRMR_IX,Index,3.2,3.2
+191,Dominica,DM,DMA,Lack of coping capacity,ECFRMC_IX,Index,4.2,4.1
+192,Dominica,DM,DMA,Vulnerability,ECFRMV_IX,Index,2.1,2.3
+193,Dominican Rep.,DO,DOM,Climate-driven Hazard & Exposure,ECFRMH_IX,Index,5.1,5.1
+194,Dominican Rep.,DO,DOM,Climate-driven INFORM Risk Indicator,ECFRMR_IX,Index,3.8,4.5
+195,Dominican Rep.,DO,DOM,Lack of coping capacity,ECFRMC_IX,Index,4.5,4.5
+196,Dominican Rep.,DO,DOM,Vulnerability,ECFRMV_IX,Index,2.4,3.9
+197,Ecuador,EC,ECU,Climate-driven Hazard & Exposure,ECFRMH_IX,Index,3.9,4
+198,Ecuador,EC,ECU,Climate-driven INFORM Risk Indicator,ECFRMR_IX,Index,3.9,4.3
+199,Ecuador,EC,ECU,Lack of coping capacity,ECFRMC_IX,Index,4,4
+200,Ecuador,EC,ECU,Vulnerability,ECFRMV_IX,Index,3.8,4.8
+201,"Egypt, Arab Rep. of",EG,EGY,Climate-driven Hazard & Exposure,ECFRMH_IX,Index,4.5,4.4
+202,"Egypt, Arab Rep. of",EG,EGY,Climate-driven INFORM Risk Indicator,ECFRMR_IX,Index,4.3,4.3
+203,"Egypt, Arab Rep. of",EG,EGY,Lack of coping capacity,ECFRMC_IX,Index,4.6,4.6
+204,"Egypt, Arab Rep. of",EG,EGY,Vulnerability,ECFRMV_IX,Index,3.9,3.8
+205,El Salvador,SV,SLV,Climate-driven Hazard & Exposure,ECFRMH_IX,Index,3.4,3.5
+206,El Salvador,SV,SLV,Climate-driven INFORM Risk Indicator,ECFRMR_IX,Index,4.1,4.1
+207,El Salvador,SV,SLV,Lack of coping capacity,ECFRMC_IX,Index,4.6,4.6
+208,El Salvador,SV,SLV,Vulnerability,ECFRMV_IX,Index,4.4,4.4
+209,"Equatorial Guinea, Rep. of",GQ,GNQ,Climate-driven Hazard & Exposure,ECFRMH_IX,Index,2.8,2.8
+210,"Equatorial Guinea, Rep. of",GQ,GNQ,Climate-driven INFORM Risk Indicator,ECFRMR_IX,Index,4,4.2
+211,"Equatorial Guinea, Rep. of",GQ,GNQ,Lack of coping capacity,ECFRMC_IX,Index,7.2,7.3
+212,"Equatorial Guinea, Rep. of",GQ,GNQ,Vulnerability,ECFRMV_IX,Index,3.2,3.5
+213,"Eritrea, The State of",ER,ERI,Climate-driven Hazard & Exposure,ECFRMH_IX,Index,4,3.5
+214,"Eritrea, The State of",ER,ERI,Climate-driven INFORM Risk Indicator,ECFRMR_IX,Index,5.3,5
+215,"Eritrea, The State of",ER,ERI,Lack of coping capacity,ECFRMC_IX,Index,7.8,7.8
+216,"Eritrea, The State of",ER,ERI,Vulnerability,ECFRMV_IX,Index,4.7,4.6
+217,"Estonia, Rep. of",EE,EST,Climate-driven Hazard & Exposure,ECFRMH_IX,Index,1.4,1.4
+218,"Estonia, Rep. of",EE,EST,Climate-driven INFORM Risk Indicator,ECFRMR_IX,Index,1.3,1.2
+219,"Estonia, Rep. of",EE,EST,Lack of coping capacity,ECFRMC_IX,Index,1.8,1.7
+220,"Estonia, Rep. of",EE,EST,Vulnerability,ECFRMV_IX,Index,0.8,0.7
+221,"Eswatini, Kingdom of",SZ,SWZ,Climate-driven Hazard & Exposure,ECFRMH_IX,Index,3.4,3.4
+222,"Eswatini, Kingdom of",SZ,SWZ,Climate-driven INFORM Risk Indicator,ECFRMR_IX,Index,4.6,4.4
+223,"Eswatini, Kingdom of",SZ,SWZ,Lack of coping capacity,ECFRMC_IX,Index,5.4,5.5
+224,"Eswatini, Kingdom of",SZ,SWZ,Vulnerability,ECFRMV_IX,Index,5.3,4.5
+225,"Ethiopia, The Federal Dem. Rep. of",ET,ETH,Climate-driven Hazard & Exposure,ECFRMH_IX,Index,4,4
+226,"Ethiopia, The Federal Dem. Rep. of",ET,ETH,Climate-driven INFORM Risk Indicator,ECFRMR_IX,Index,5.6,5.6
+227,"Ethiopia, The Federal Dem. Rep. of",ET,ETH,Lack of coping capacity,ECFRMC_IX,Index,6.8,6.8
+228,"Ethiopia, The Federal Dem. Rep. of",ET,ETH,Vulnerability,ECFRMV_IX,Index,6.5,6.4
+229,"Fiji, Rep. of",FJ,FJI,Climate-driven Hazard & Exposure,ECFRMH_IX,Index,2,2
+230,"Fiji, Rep. of",FJ,FJI,Climate-driven INFORM Risk Indicator,ECFRMR_IX,Index,2.6,2.7
+231,"Fiji, Rep. of",FJ,FJI,Lack of coping capacity,ECFRMC_IX,Index,2.9,2.9
+232,"Fiji, Rep. of",FJ,FJI,Vulnerability,ECFRMV_IX,Index,2.9,3.5
+233,Finland,FI,FIN,Climate-driven Hazard & Exposure,ECFRMH_IX,Index,0.7,0.6
+234,Finland,FI,FIN,Climate-driven INFORM Risk Indicator,ECFRMR_IX,Index,1.2,1.1
+235,Finland,FI,FIN,Lack of coping capacity,ECFRMC_IX,Index,1.3,1.3
+236,Finland,FI,FIN,Vulnerability,ECFRMV_IX,Index,1.7,1.7
+237,France,FR,FRA,Climate-driven Hazard & Exposure,ECFRMH_IX,Index,3.2,3.1
+238,France,FR,FRA,Climate-driven INFORM Risk Indicator,ECFRMR_IX,Index,2.6,2.5
+239,France,FR,FRA,Lack of coping capacity,ECFRMC_IX,Index,1.9,1.9
+240,France,FR,FRA,Vulnerability,ECFRMV_IX,Index,2.8,2.8
+241,Gabon,GA,GAB,Climate-driven Hazard & Exposure,ECFRMH_IX,Index,2.2,2.2
+242,Gabon,GA,GAB,Climate-driven INFORM Risk Indicator,ECFRMR_IX,Index,3.6,3.6
+243,Gabon,GA,GAB,Lack of coping capacity,ECFRMC_IX,Index,6,6.1
+244,Gabon,GA,GAB,Vulnerability,ECFRMV_IX,Index,3.5,3.5
+245,"Gambia, The",GM,GMB,Climate-driven Hazard & Exposure,ECFRMH_IX,Index,2.4,2.4
+246,"Gambia, The",GM,GMB,Climate-driven INFORM Risk Indicator,ECFRMR_IX,Index,4.1,4.1
+247,"Gambia, The",GM,GMB,Lack of coping capacity,ECFRMC_IX,Index,5.5,5.6
+248,"Gambia, The",GM,GMB,Vulnerability,ECFRMV_IX,Index,5.3,5.1
+249,Georgia,GE,GEO,Climate-driven Hazard & Exposure,ECFRMH_IX,Index,3.9,3.7
+250,Georgia,GE,GEO,Climate-driven INFORM Risk Indicator,ECFRMR_IX,Index,3.9,3.8
+251,Georgia,GE,GEO,Lack of coping capacity,ECFRMC_IX,Index,3.2,3.1
+252,Georgia,GE,GEO,Vulnerability,ECFRMV_IX,Index,4.6,4.6
+253,Germany,DE,DEU,Climate-driven Hazard & Exposure,ECFRMH_IX,Index,3,3
+254,Germany,DE,DEU,Climate-driven INFORM Risk Indicator,ECFRMR_IX,Index,2.5,2.5
+255,Germany,DE,DEU,Lack of coping capacity,ECFRMC_IX,Index,1.5,1.5
+256,Germany,DE,DEU,Vulnerability,ECFRMV_IX,Index,3.4,3.4
+257,Ghana,GH,GHA,Climate-driven Hazard & Exposure,ECFRMH_IX,Index,2.4,2.4
+258,Ghana,GH,GHA,Climate-driven INFORM Risk Indicator,ECFRMR_IX,Index,3.7,3.7
+259,Ghana,GH,GHA,Lack of coping capacity,ECFRMC_IX,Index,5.1,5.1
+260,Ghana,GH,GHA,Vulnerability,ECFRMV_IX,Index,4.2,4.2
+261,Greece,GR,GRC,Climate-driven Hazard & Exposure,ECFRMH_IX,Index,1.8,1.7
+262,Greece,GR,GRC,Climate-driven INFORM Risk Indicator,ECFRMR_IX,Index,2.3,2.2
+263,Greece,GR,GRC,Lack of coping capacity,ECFRMC_IX,Index,2.4,2.3
+264,Greece,GR,GRC,Vulnerability,ECFRMV_IX,Index,3,2.7
+265,Grenada,GD,GRD,Climate-driven Hazard & Exposure,ECFRMH_IX,Index,0.8,0.8
+266,Grenada,GD,GRD,Climate-driven INFORM Risk Indicator,ECFRMR_IX,Index,1.7,1.8
+267,Grenada,GD,GRD,Lack of coping capacity,ECFRMC_IX,Index,3.8,3.8
+268,Grenada,GD,GRD,Vulnerability,ECFRMV_IX,Index,1.6,2
+269,Guatemala,GT,GTM,Climate-driven Hazard & Exposure,ECFRMH_IX,Index,4.5,4.5
+270,Guatemala,GT,GTM,Climate-driven INFORM Risk Indicator,ECFRMR_IX,Index,5.1,5.2
+271,Guatemala,GT,GTM,Lack of coping capacity,ECFRMC_IX,Index,5.3,5.4
+272,Guatemala,GT,GTM,Vulnerability,ECFRMV_IX,Index,5.6,5.7
+273,Guinea,GN,GIN,Climate-driven Hazard & Exposure,ECFRMH_IX,Index,2.3,2.3
+274,Guinea,GN,GIN,Climate-driven INFORM Risk Indicator,ECFRMR_IX,Index,4.2,4.2
+275,Guinea,GN,GIN,Lack of coping capacity,ECFRMC_IX,Index,7.2,7.2
+276,Guinea,GN,GIN,Vulnerability,ECFRMV_IX,Index,4.5,4.5
+277,Guinea-Bissau,GW,GNB,Climate-driven Hazard & Exposure,ECFRMH_IX,Index,1.9,1.9
+278,Guinea-Bissau,GW,GNB,Climate-driven INFORM Risk Indicator,ECFRMR_IX,Index,4.4,4.3
+279,Guinea-Bissau,GW,GNB,Lack of coping capacity,ECFRMC_IX,Index,7.9,7.9
+280,Guinea-Bissau,GW,GNB,Vulnerability,ECFRMV_IX,Index,5.5,5.3
+281,Guyana,GY,GUY,Climate-driven Hazard & Exposure,ECFRMH_IX,Index,3.2,3.3
+282,Guyana,GY,GUY,Climate-driven INFORM Risk Indicator,ECFRMR_IX,Index,3.7,4.5
+283,Guyana,GY,GUY,Lack of coping capacity,ECFRMC_IX,Index,5.1,5.2
+284,Guyana,GY,GUY,Vulnerability,ECFRMV_IX,Index,3.1,5.2
+285,Haiti,HT,HTI,Climate-driven Hazard & Exposure,ECFRMH_IX,Index,5.3,5.3
+286,Haiti,HT,HTI,Climate-driven INFORM Risk Indicator,ECFRMR_IX,Index,6,6
+287,Haiti,HT,HTI,Lack of coping capacity,ECFRMC_IX,Index,7.2,7.3
+288,Haiti,HT,HTI,Vulnerability,ECFRMV_IX,Index,5.7,5.6
+289,Honduras,HN,HND,Climate-driven Hazard & Exposure,ECFRMH_IX,Index,4.7,4.7
+290,Honduras,HN,HND,Climate-driven INFORM Risk Indicator,ECFRMR_IX,Index,5.2,5.4
+291,Honduras,HN,HND,Lack of coping capacity,ECFRMC_IX,Index,5.2,5.3
+292,Honduras,HN,HND,Vulnerability,ECFRMV_IX,Index,5.6,6.2
+293,Hungary,HU,HUN,Climate-driven Hazard & Exposure,ECFRMH_IX,Index,4.4,4.3
+294,Hungary,HU,HUN,Climate-driven INFORM Risk Indicator,ECFRMR_IX,Index,2.5,2.4
+295,Hungary,HU,HUN,Lack of coping capacity,ECFRMC_IX,Index,2.2,2.2
+296,Hungary,HU,HUN,Vulnerability,ECFRMV_IX,Index,1.6,1.4
+297,Iceland,IS,ISL,Climate-driven Hazard & Exposure,ECFRMH_IX,Index,0.1,0.1
+298,Iceland,IS,ISL,Climate-driven INFORM Risk Indicator,ECFRMR_IX,Index,0.5,0.6
+299,Iceland,IS,ISL,Lack of coping capacity,ECFRMC_IX,Index,1.8,1.9
+300,Iceland,IS,ISL,Vulnerability,ECFRMV_IX,Index,0.8,0.9
+301,India,IN,IND,Climate-driven Hazard & Exposure,ECFRMH_IX,Index,7.6,7.5
+302,India,IN,IND,Climate-driven INFORM Risk Indicator,ECFRMR_IX,Index,5.4,5.4
+303,India,IN,IND,Lack of coping capacity,ECFRMC_IX,Index,4.3,4.4
+304,India,IN,IND,Vulnerability,ECFRMV_IX,Index,4.9,4.8
+305,Indonesia,ID,IDN,Climate-driven Hazard & Exposure,ECFRMH_IX,Index,6.2,6.2
+306,Indonesia,ID,IDN,Climate-driven INFORM Risk Indicator,ECFRMR_IX,Index,4.5,4.5
+307,Indonesia,ID,IDN,Lack of coping capacity,ECFRMC_IX,Index,4.5,4.5
+308,Indonesia,ID,IDN,Vulnerability,ECFRMV_IX,Index,3.3,3.2
+309,"Iran, Islamic Rep. of",IR,IRN,Climate-driven Hazard & Exposure,ECFRMH_IX,Index,5.1,4.9
+310,"Iran, Islamic Rep. of",IR,IRN,Climate-driven INFORM Risk Indicator,ECFRMR_IX,Index,4.7,4.5
+311,"Iran, Islamic Rep. of",IR,IRN,Lack of coping capacity,ECFRMC_IX,Index,4.5,4.4
+312,"Iran, Islamic Rep. of",IR,IRN,Vulnerability,ECFRMV_IX,Index,4.4,4.3
+313,Iraq,IQ,IRQ,Climate-driven Hazard & Exposure,ECFRMH_IX,Index,6.4,6.3
+314,Iraq,IQ,IRQ,Climate-driven INFORM Risk Indicator,ECFRMR_IX,Index,6.1,6.2
+315,Iraq,IQ,IRQ,Lack of coping capacity,ECFRMC_IX,Index,6.6,6.5
+316,Iraq,IQ,IRQ,Vulnerability,ECFRMV_IX,Index,5.5,5.8
+317,Ireland,IE,IRL,Climate-driven Hazard & Exposure,ECFRMH_IX,Index,1.6,1.6
+318,Ireland,IE,IRL,Climate-driven INFORM Risk Indicator,ECFRMR_IX,Index,1.6,1.7
+319,Ireland,IE,IRL,Lack of coping capacity,ECFRMC_IX,Index,1.8,1.9
+320,Ireland,IE,IRL,Vulnerability,ECFRMV_IX,Index,1.5,1.5
+321,Israel,IL,ISR,Climate-driven Hazard & Exposure,ECFRMH_IX,Index,2.8,2.8
+322,Israel,IL,ISR,Climate-driven INFORM Risk Indicator,ECFRMR_IX,Index,2.3,2.2
+323,Israel,IL,ISR,Lack of coping capacity,ECFRMC_IX,Index,2.1,2
+324,Israel,IL,ISR,Vulnerability,ECFRMV_IX,Index,2.1,1.8
+325,Italy,IT,ITA,Climate-driven Hazard & Exposure,ECFRMH_IX,Index,2.9,2.8
+326,Italy,IT,ITA,Climate-driven INFORM Risk Indicator,ECFRMR_IX,Index,2.5,2.4
+327,Italy,IT,ITA,Lack of coping capacity,ECFRMC_IX,Index,2.2,2.2
+328,Italy,IT,ITA,Vulnerability,ECFRMV_IX,Index,2.4,2.2
+329,Jamaica,JM,JAM,Climate-driven Hazard & Exposure,ECFRMH_IX,Index,4.7,4.8
+330,Jamaica,JM,JAM,Climate-driven INFORM Risk Indicator,ECFRMR_IX,Index,3.5,3.5
+331,Jamaica,JM,JAM,Lack of coping capacity,ECFRMC_IX,Index,3.6,3.6
+332,Jamaica,JM,JAM,Vulnerability,ECFRMV_IX,Index,2.5,2.5
+333,Japan,JP,JPN,Climate-driven Hazard & Exposure,ECFRMH_IX,Index,6.7,6.7
+334,Japan,JP,JPN,Climate-driven INFORM Risk Indicator,ECFRMR_IX,Index,2.5,2.4
+335,Japan,JP,JPN,Lack of coping capacity,ECFRMC_IX,Index,1.5,1.5
+336,Japan,JP,JPN,Vulnerability,ECFRMV_IX,Index,1.5,1.3
+337,Jordan,JO,JOR,Climate-driven Hazard & Exposure,ECFRMH_IX,Index,3.6,3.6
+338,Jordan,JO,JOR,Climate-driven INFORM Risk Indicator,ECFRMR_IX,Index,4.6,4.6
+339,Jordan,JO,JOR,Lack of coping capacity,ECFRMC_IX,Index,4.3,4.3
+340,Jordan,JO,JOR,Vulnerability,ECFRMV_IX,Index,6.1,6.1
+341,"Kazakhstan, Rep. of",KZ,KAZ,Climate-driven Hazard & Exposure,ECFRMH_IX,Index,4.1,4.1
+342,"Kazakhstan, Rep. of",KZ,KAZ,Climate-driven INFORM Risk Indicator,ECFRMR_IX,Index,2.2,2.2
+343,"Kazakhstan, Rep. of",KZ,KAZ,Lack of coping capacity,ECFRMC_IX,Index,3.7,3.6
+344,"Kazakhstan, Rep. of",KZ,KAZ,Vulnerability,ECFRMV_IX,Index,0.7,0.7
+345,Kenya,KE,KEN,Climate-driven Hazard & Exposure,ECFRMH_IX,Index,4.7,4.7
+346,Kenya,KE,KEN,Climate-driven INFORM Risk Indicator,ECFRMR_IX,Index,5.5,5.5
+347,Kenya,KE,KEN,Lack of coping capacity,ECFRMC_IX,Index,6,5.9
+348,Kenya,KE,KEN,Vulnerability,ECFRMV_IX,Index,6,6
+349,Kiribati,KI,KIR,Climate-driven Hazard & Exposure,ECFRMH_IX,Index,1.5,1.5
+350,Kiribati,KI,KIR,Climate-driven INFORM Risk Indicator,ECFRMR_IX,Index,3.2,3.4
+351,Kiribati,KI,KIR,Lack of coping capacity,ECFRMC_IX,Index,5.3,5.2
+352,Kiribati,KI,KIR,Vulnerability,ECFRMV_IX,Index,4.3,5.1
+353,"Korea, Dem. People's Rep. of",KP,PRK,Climate-driven Hazard & Exposure,ECFRMH_IX,Index,6.1,6.1
+354,"Korea, Dem. People's Rep. of",KP,PRK,Climate-driven INFORM Risk Indicator,ECFRMR_IX,Index,6,4.8
+355,"Korea, Dem. People's Rep. of",KP,PRK,Lack of coping capacity,ECFRMC_IX,Index,6.3,6.3
+356,"Korea, Dem. People's Rep. of",KP,PRK,Vulnerability,ECFRMV_IX,Index,5.7,2.9
+357,"Korea, Rep. of",KR,KOR,Climate-driven Hazard & Exposure,ECFRMH_IX,Index,5.5,5.5
+358,"Korea, Rep. of",KR,KOR,Climate-driven INFORM Risk Indicator,ECFRMR_IX,Index,2.4,2.3
+359,"Korea, Rep. of",KR,KOR,Lack of coping capacity,ECFRMC_IX,Index,1.7,1.6
+360,"Korea, Rep. of",KR,KOR,Vulnerability,ECFRMV_IX,Index,1.4,1.3
+361,Kuwait,KW,KWT,Climate-driven Hazard & Exposure,ECFRMH_IX,Index,1.6,1.7
+362,Kuwait,KW,KWT,Climate-driven INFORM Risk Indicator,ECFRMR_IX,Index,2,2.1
+363,Kuwait,KW,KWT,Lack of coping capacity,ECFRMC_IX,Index,3.6,3.5
+364,Kuwait,KW,KWT,Vulnerability,ECFRMV_IX,Index,1.4,1.5
+365,Kyrgyz Rep.,KG,KGZ,Climate-driven Hazard & Exposure,ECFRMH_IX,Index,4.5,4.3
+366,Kyrgyz Rep.,KG,KGZ,Climate-driven INFORM Risk Indicator,ECFRMR_IX,Index,3.5,3.5
+367,Kyrgyz Rep.,KG,KGZ,Lack of coping capacity,ECFRMC_IX,Index,4.4,4.3
+368,Kyrgyz Rep.,KG,KGZ,Vulnerability,ECFRMV_IX,Index,2.2,2.3
+369,Lao People's Dem. Rep.,LA,LAO,Climate-driven Hazard & Exposure,ECFRMH_IX,Index,6,6
+370,Lao People's Dem. Rep.,LA,LAO,Climate-driven INFORM Risk Indicator,ECFRMR_IX,Index,5.1,5
+371,Lao People's Dem. Rep.,LA,LAO,Lack of coping capacity,ECFRMC_IX,Index,6,6
+372,Lao People's Dem. Rep.,LA,LAO,Vulnerability,ECFRMV_IX,Index,3.6,3.4
+373,Latvia,LV,LVA,Climate-driven Hazard & Exposure,ECFRMH_IX,Index,3.6,3.5
+374,Latvia,LV,LVA,Climate-driven INFORM Risk Indicator,ECFRMR_IX,Index,2.2,2.1
+375,Latvia,LV,LVA,Lack of coping capacity,ECFRMC_IX,Index,2.6,2.5
+376,Latvia,LV,LVA,Vulnerability,ECFRMV_IX,Index,1.1,1
+377,Lebanon,LB,LBN,Climate-driven Hazard & Exposure,ECFRMH_IX,Index,1.2,1.1
+378,Lebanon,LB,LBN,Climate-driven INFORM Risk Indicator,ECFRMR_IX,Index,3.2,3.1
+379,Lebanon,LB,LBN,Lack of coping capacity,ECFRMC_IX,Index,4.3,4.3
+380,Lebanon,LB,LBN,Vulnerability,ECFRMV_IX,Index,6.2,6.2
+381,"Lesotho, Kingdom of",LS,LSO,Climate-driven Hazard & Exposure,ECFRMH_IX,Index,3.4,3.7
+382,"Lesotho, Kingdom of",LS,LSO,Climate-driven INFORM Risk Indicator,ECFRMR_IX,Index,5.2,5.3
+383,"Lesotho, Kingdom of",LS,LSO,Lack of coping capacity,ECFRMC_IX,Index,6.8,6.8
+384,"Lesotho, Kingdom of",LS,LSO,Vulnerability,ECFRMV_IX,Index,6,5.8
+385,Liberia,LR,LBR,Climate-driven Hazard & Exposure,ECFRMH_IX,Index,2.8,2.8
+386,Liberia,LR,LBR,Climate-driven INFORM Risk Indicator,ECFRMR_IX,Index,5.1,5.2
+387,Liberia,LR,LBR,Lack of coping capacity,ECFRMC_IX,Index,7.7,7.8
+388,Liberia,LR,LBR,Vulnerability,ECFRMV_IX,Index,6.1,6.3
+389,Libya,LY,LBY,Climate-driven Hazard & Exposure,ECFRMH_IX,Index,2.8,2.8
+390,Libya,LY,LBY,Climate-driven INFORM Risk Indicator,ECFRMR_IX,Index,4.6,4.4
+391,Libya,LY,LBY,Lack of coping capacity,ECFRMC_IX,Index,6.8,6.9
+392,Libya,LY,LBY,Vulnerability,ECFRMV_IX,Index,5.2,4.3
+393,Liechtenstein,LI,LIE,Climate-driven Hazard & Exposure,ECFRMH_IX,Index,0.1,0.1
+394,Liechtenstein,LI,LIE,Climate-driven INFORM Risk Indicator,ECFRMR_IX,Index,0.4,0.4
+395,Liechtenstein,LI,LIE,Lack of coping capacity,ECFRMC_IX,Index,1.1,1.2
+396,Liechtenstein,LI,LIE,Vulnerability,ECFRMV_IX,Index,0.6,0.7
+397,Lithuania,LT,LTU,Climate-driven Hazard & Exposure,ECFRMH_IX,Index,2.8,2.7
+398,Lithuania,LT,LTU,Climate-driven INFORM Risk Indicator,ECFRMR_IX,Index,2,1.8
+399,Lithuania,LT,LTU,Lack of coping capacity,ECFRMC_IX,Index,2.3,2.3
+400,Lithuania,LT,LTU,Vulnerability,ECFRMV_IX,Index,1.2,1
+401,Luxembourg,LU,LUX,Climate-driven Hazard & Exposure,ECFRMH_IX,Index,1,1
+402,Luxembourg,LU,LUX,Climate-driven INFORM Risk Indicator,ECFRMR_IX,Index,1.2,1.3
+403,Luxembourg,LU,LUX,Lack of coping capacity,ECFRMC_IX,Index,1.2,1.3
+404,Luxembourg,LU,LUX,Vulnerability,ECFRMV_IX,Index,1.4,1.6
+405,"Madagascar, Rep. of",MG,MDG,Climate-driven Hazard & Exposure,ECFRMH_IX,Index,6.5,6.6
+406,"Madagascar, Rep. of",MG,MDG,Climate-driven INFORM Risk Indicator,ECFRMR_IX,Index,6.2,6.1
+407,"Madagascar, Rep. of",MG,MDG,Lack of coping capacity,ECFRMC_IX,Index,7.1,7
+408,"Madagascar, Rep. of",MG,MDG,Vulnerability,ECFRMV_IX,Index,5.1,5
+409,Malawi,MW,MWI,Climate-driven Hazard & Exposure,ECFRMH_IX,Index,4.3,4.3
+410,Malawi,MW,MWI,Climate-driven INFORM Risk Indicator,ECFRMR_IX,Index,5.5,5.4
+411,Malawi,MW,MWI,Lack of coping capacity,ECFRMC_IX,Index,6.4,6.4
+412,Malawi,MW,MWI,Vulnerability,ECFRMV_IX,Index,6.1,5.7
+413,Malaysia,MY,MYS,Climate-driven Hazard & Exposure,ECFRMH_IX,Index,4.5,4.5
+414,Malaysia,MY,MYS,Climate-driven INFORM Risk Indicator,ECFRMR_IX,Index,3.4,3.5
+415,Malaysia,MY,MYS,Lack of coping capacity,ECFRMC_IX,Index,2.9,3
+416,Malaysia,MY,MYS,Vulnerability,ECFRMV_IX,Index,3.1,3.1
+417,Maldives,MV,MDV,Climate-driven Hazard & Exposure,ECFRMH_IX,Index,0.1,0.1
+418,Maldives,MV,MDV,Climate-driven INFORM Risk Indicator,ECFRMR_IX,Index,0.9,0.9
+419,Maldives,MV,MDV,Lack of coping capacity,ECFRMC_IX,Index,4.3,4
+420,Maldives,MV,MDV,Vulnerability,ECFRMV_IX,Index,1.8,1.8
+421,Mali,ML,MLI,Climate-driven Hazard & Exposure,ECFRMH_IX,Index,5.6,5.4
+422,Mali,ML,MLI,Climate-driven INFORM Risk Indicator,ECFRMR_IX,Index,6.2,6.3
+423,Mali,ML,MLI,Lack of coping capacity,ECFRMC_IX,Index,6.6,6.6
+424,Mali,ML,MLI,Vulnerability,ECFRMV_IX,Index,6.4,7.1
+425,Malta,MT,MLT,Climate-driven Hazard & Exposure,ECFRMH_IX,Index,0.1,0.1
+426,Malta,MT,MLT,Climate-driven INFORM Risk Indicator,ECFRMR_IX,Index,0.8,0.8
+427,Malta,MT,MLT,Lack of coping capacity,ECFRMC_IX,Index,2.4,2.4
+428,Malta,MT,MLT,Vulnerability,ECFRMV_IX,Index,2.2,2.1
+429,"Marshall Islands, Rep. of the",MH,MHL,Climate-driven Hazard & Exposure,ECFRMH_IX,Index,1.4,1.4
+430,"Marshall Islands, Rep. of the",MH,MHL,Climate-driven INFORM Risk Indicator,ECFRMR_IX,Index,3.3,3.2
+431,"Marshall Islands, Rep. of the",MH,MHL,Lack of coping capacity,ECFRMC_IX,Index,6.3,6.2
+432,"Marshall Islands, Rep. of the",MH,MHL,Vulnerability,ECFRMV_IX,Index,3.9,3.9
+433,"Mauritania, Islamic Rep. of",MR,MRT,Climate-driven Hazard & Exposure,ECFRMH_IX,Index,6.9,6.5
+434,"Mauritania, Islamic Rep. of",MR,MRT,Climate-driven INFORM Risk Indicator,ECFRMR_IX,Index,6.3,6.3
+435,"Mauritania, Islamic Rep. of",MR,MRT,Lack of coping capacity,ECFRMC_IX,Index,6.6,6.5
+436,"Mauritania, Islamic Rep. of",MR,MRT,Vulnerability,ECFRMV_IX,Index,5.6,5.8
+437,Mauritius,MU,MUS,Climate-driven Hazard & Exposure,ECFRMH_IX,Index,3.3,3.4
+438,Mauritius,MU,MUS,Climate-driven INFORM Risk Indicator,ECFRMR_IX,Index,2.3,2.3
+439,Mauritius,MU,MUS,Lack of coping capacity,ECFRMC_IX,Index,2.8,2.8
+440,Mauritius,MU,MUS,Vulnerability,ECFRMV_IX,Index,1.4,1.3
+441,Mexico,MX,MEX,Climate-driven Hazard & Exposure,ECFRMH_IX,Index,6.4,6.4
+442,Mexico,MX,MEX,Climate-driven INFORM Risk Indicator,ECFRMR_IX,Index,4.8,4.8
+443,Mexico,MX,MEX,Lack of coping capacity,ECFRMC_IX,Index,4.4,4.4
+444,Mexico,MX,MEX,Vulnerability,ECFRMV_IX,Index,3.9,3.9
+445,"Micronesia, Federated States of",FM,FSM,Climate-driven Hazard & Exposure,ECFRMH_IX,Index,3.4,3.4
+446,"Micronesia, Federated States of",FM,FSM,Climate-driven INFORM Risk Indicator,ECFRMR_IX,Index,4.2,4.1
+447,"Micronesia, Federated States of",FM,FSM,Lack of coping capacity,ECFRMC_IX,Index,5.3,5.2
+448,"Micronesia, Federated States of",FM,FSM,Vulnerability,ECFRMV_IX,Index,4.1,4
+449,"Moldova, Rep. of",MD,MDA,Climate-driven Hazard & Exposure,ECFRMH_IX,Index,4.1,4
+450,"Moldova, Rep. of",MD,MDA,Climate-driven INFORM Risk Indicator,ECFRMR_IX,Index,3.3,3.2
+451,"Moldova, Rep. of",MD,MDA,Lack of coping capacity,ECFRMC_IX,Index,4.6,4.5
+452,"Moldova, Rep. of",MD,MDA,Vulnerability,ECFRMV_IX,Index,1.9,1.8
+453,Mongolia,MN,MNG,Climate-driven Hazard & Exposure,ECFRMH_IX,Index,4.2,4.2
+454,Mongolia,MN,MNG,Climate-driven INFORM Risk Indicator,ECFRMR_IX,Index,3.9,3.6
+455,Mongolia,MN,MNG,Lack of coping capacity,ECFRMC_IX,Index,4.9,4.8
+456,Mongolia,MN,MNG,Vulnerability,ECFRMV_IX,Index,2.8,2.3
+457,Montenegro,ME,MNE,Climate-driven Hazard & Exposure,ECFRMH_IX,Index,2.4,2.3
+458,Montenegro,ME,MNE,Climate-driven INFORM Risk Indicator,ECFRMR_IX,Index,2.4,2.2
+459,Montenegro,ME,MNE,Lack of coping capacity,ECFRMC_IX,Index,3.2,3.2
+460,Montenegro,ME,MNE,Vulnerability,ECFRMV_IX,Index,1.7,1.5
+461,Morocco,MA,MAR,Climate-driven Hazard & Exposure,ECFRMH_IX,Index,4.3,4.1
+462,Morocco,MA,MAR,Climate-driven INFORM Risk Indicator,ECFRMR_IX,Index,4.1,4
+463,Morocco,MA,MAR,Lack of coping capacity,ECFRMC_IX,Index,4.8,4.7
+464,Morocco,MA,MAR,Vulnerability,ECFRMV_IX,Index,3.3,3.3
+465,"Mozambique, Rep. of",MZ,MOZ,Climate-driven Hazard & Exposure,ECFRMH_IX,Index,6,6
+466,"Mozambique, Rep. of",MZ,MOZ,Climate-driven INFORM Risk Indicator,ECFRMR_IX,Index,6.5,6.6
+467,"Mozambique, Rep. of",MZ,MOZ,Lack of coping capacity,ECFRMC_IX,Index,6.5,6.3
+468,"Mozambique, Rep. of",MZ,MOZ,Vulnerability,ECFRMV_IX,Index,7.2,7.6
+469,Myanmar,MM,MMR,Climate-driven Hazard & Exposure,ECFRMH_IX,Index,7,7
+470,Myanmar,MM,MMR,Climate-driven INFORM Risk Indicator,ECFRMR_IX,Index,6.2,6.2
+471,Myanmar,MM,MMR,Lack of coping capacity,ECFRMC_IX,Index,6.3,6.4
+472,Myanmar,MM,MMR,Vulnerability,ECFRMV_IX,Index,5.3,5.2
+473,Namibia,,NAM,Climate-driven Hazard & Exposure,ECFRMH_IX,Index,6.1,6.4
+474,Namibia,,NAM,Climate-driven INFORM Risk Indicator,ECFRMR_IX,Index,5.3,5.3
+475,Namibia,,NAM,Lack of coping capacity,ECFRMC_IX,Index,5,5
+476,Namibia,,NAM,Vulnerability,ECFRMV_IX,Index,4.9,4.7
+477,"Nauru, Rep. of",NR,NRU,Climate-driven Hazard & Exposure,ECFRMH_IX,Index,0.1,0.1
+478,"Nauru, Rep. of",NR,NRU,Climate-driven INFORM Risk Indicator,ECFRMR_IX,Index,1.3,1.3
+479,"Nauru, Rep. of",NR,NRU,Lack of coping capacity,ECFRMC_IX,Index,5.1,5.1
+480,"Nauru, Rep. of",NR,NRU,Vulnerability,ECFRMV_IX,Index,4.1,4.1
+481,Nepal,NP,NPL,Climate-driven Hazard & Exposure,ECFRMH_IX,Index,3.9,3.7
+482,Nepal,NP,NPL,Climate-driven INFORM Risk Indicator,ECFRMR_IX,Index,4.6,4.5
+483,Nepal,NP,NPL,Lack of coping capacity,ECFRMC_IX,Index,5.6,5.7
+484,Nepal,NP,NPL,Vulnerability,ECFRMV_IX,Index,4.5,4.3
+485,"Netherlands, The",NL,NLD,Climate-driven Hazard & Exposure,ECFRMH_IX,Index,2.6,2.6
+486,"Netherlands, The",NL,NLD,Climate-driven INFORM Risk Indicator,ECFRMR_IX,Index,1.9,1.8
+487,"Netherlands, The",NL,NLD,Lack of coping capacity,ECFRMC_IX,Index,1.2,1.2
+488,"Netherlands, The",NL,NLD,Vulnerability,ECFRMV_IX,Index,2.1,2
+489,New Zealand,NZ,NZL,Climate-driven Hazard & Exposure,ECFRMH_IX,Index,2.9,2.9
+490,New Zealand,NZ,NZL,Climate-driven INFORM Risk Indicator,ECFRMR_IX,Index,1.7,1.7
+491,New Zealand,NZ,NZL,Lack of coping capacity,ECFRMC_IX,Index,1.8,1.8
+492,New Zealand,NZ,NZL,Vulnerability,ECFRMV_IX,Index,1,0.9
+493,Nicaragua,NI,NIC,Climate-driven Hazard & Exposure,ECFRMH_IX,Index,4.3,4.3
+494,Nicaragua,NI,NIC,Climate-driven INFORM Risk Indicator,ECFRMR_IX,Index,4.3,4.5
+495,Nicaragua,NI,NIC,Lack of coping capacity,ECFRMC_IX,Index,5.3,5.3
+496,Nicaragua,NI,NIC,Vulnerability,ECFRMV_IX,Index,3.5,4
+497,Niger,NE,NER,Climate-driven Hazard & Exposure,ECFRMH_IX,Index,5.6,5.3
+498,Niger,NE,NER,Climate-driven INFORM Risk Indicator,ECFRMR_IX,Index,6.7,6.6
+499,Niger,NE,NER,Lack of coping capacity,ECFRMC_IX,Index,7.7,7.6
+500,Niger,NE,NER,Vulnerability,ECFRMV_IX,Index,6.9,7.3
+501,Nigeria,NG,NGA,Climate-driven Hazard & Exposure,ECFRMH_IX,Index,4.1,4.1
+502,Nigeria,NG,NGA,Climate-driven INFORM Risk Indicator,ECFRMR_IX,Index,5.4,5.4
+503,Nigeria,NG,NGA,Lack of coping capacity,ECFRMC_IX,Index,6.3,6.5
+504,Nigeria,NG,NGA,Vulnerability,ECFRMV_IX,Index,6.1,5.8
+505,"North Macedonia, Republic of ",MK,MKD,Climate-driven Hazard & Exposure,ECFRMH_IX,Index,2.9,2.8
+506,"North Macedonia, Republic of ",MK,MKD,Climate-driven INFORM Risk Indicator,ECFRMR_IX,Index,2.6,2.5
+507,"North Macedonia, Republic of ",MK,MKD,Lack of coping capacity,ECFRMC_IX,Index,3.6,3.6
+508,"North Macedonia, Republic of ",MK,MKD,Vulnerability,ECFRMV_IX,Index,1.7,1.6
+509,Norway,NO,NOR,Climate-driven Hazard & Exposure,ECFRMH_IX,Index,0.7,0.6
+510,Norway,NO,NOR,Climate-driven INFORM Risk Indicator,ECFRMR_IX,Index,1.3,1.2
+511,Norway,NO,NOR,Lack of coping capacity,ECFRMC_IX,Index,1.6,1.6
+512,Norway,NO,NOR,Vulnerability,ECFRMV_IX,Index,2.1,1.9
+513,Oman,OM,OMN,Climate-driven Hazard & Exposure,ECFRMH_IX,Index,3.5,3.4
+514,Oman,OM,OMN,Climate-driven INFORM Risk Indicator,ECFRMR_IX,Index,2.6,2.6
+515,Oman,OM,OMN,Lack of coping capacity,ECFRMC_IX,Index,3.7,3.5
+516,Oman,OM,OMN,Vulnerability,ECFRMV_IX,Index,1.4,1.5
+517,Pakistan,PK,PAK,Climate-driven Hazard & Exposure,ECFRMH_IX,Index,6.5,6.4
+518,Pakistan,PK,PAK,Climate-driven INFORM Risk Indicator,ECFRMR_IX,Index,5.9,5.8
+519,Pakistan,PK,PAK,Lack of coping capacity,ECFRMC_IX,Index,5.5,5.5
+520,Pakistan,PK,PAK,Vulnerability,ECFRMV_IX,Index,5.7,5.6
+521,"Palau, Rep. of",PW,PLW,Climate-driven Hazard & Exposure,ECFRMH_IX,Index,2,2.1
+522,"Palau, Rep. of",PW,PLW,Climate-driven INFORM Risk Indicator,ECFRMR_IX,Index,2.7,3
+523,"Palau, Rep. of",PW,PLW,Lack of coping capacity,ECFRMC_IX,Index,4.1,4
+524,"Palau, Rep. of",PW,PLW,Vulnerability,ECFRMV_IX,Index,2.3,3.2
+525,Panama,PA,PAN,Climate-driven Hazard & Exposure,ECFRMH_IX,Index,2.2,2.3
+526,Panama,PA,PAN,Climate-driven INFORM Risk Indicator,ECFRMR_IX,Index,2.9,3.3
+527,Panama,PA,PAN,Lack of coping capacity,ECFRMC_IX,Index,4,4
+528,Panama,PA,PAN,Vulnerability,ECFRMV_IX,Index,2.8,3.8
+529,Papua New Guinea,PG,PNG,Climate-driven Hazard & Exposure,ECFRMH_IX,Index,3.5,3.5
+530,Papua New Guinea,PG,PNG,Climate-driven INFORM Risk Indicator,ECFRMR_IX,Index,5.2,5.2
+531,Papua New Guinea,PG,PNG,Lack of coping capacity,ECFRMC_IX,Index,7.3,7.4
+532,Papua New Guinea,PG,PNG,Vulnerability,ECFRMV_IX,Index,5.5,5.5
+533,Paraguay,PY,PRY,Climate-driven Hazard & Exposure,ECFRMH_IX,Index,3,3
+534,Paraguay,PY,PRY,Climate-driven INFORM Risk Indicator,ECFRMR_IX,Index,3.3,3.4
+535,Paraguay,PY,PRY,Lack of coping capacity,ECFRMC_IX,Index,4.3,4.3
+536,Paraguay,PY,PRY,Vulnerability,ECFRMV_IX,Index,2.9,3.1
+537,Peru,PE,PER,Climate-driven Hazard & Exposure,ECFRMH_IX,Index,4.1,4.1
+538,Peru,PE,PER,Climate-driven INFORM Risk Indicator,ECFRMR_IX,Index,4.3,4.5
+539,Peru,PE,PER,Lack of coping capacity,ECFRMC_IX,Index,4.4,4.3
+540,Peru,PE,PER,Vulnerability,ECFRMV_IX,Index,4.5,5
+541,Philippines,PH,PHL,Climate-driven Hazard & Exposure,ECFRMH_IX,Index,7.6,7.6
+542,Philippines,PH,PHL,Climate-driven INFORM Risk Indicator,ECFRMR_IX,Index,5.3,5.2
+543,Philippines,PH,PHL,Lack of coping capacity,ECFRMC_IX,Index,4.3,4.3
+544,Philippines,PH,PHL,Vulnerability,ECFRMV_IX,Index,4.5,4.4
+545,"Poland, Rep. of",PL,POL,Climate-driven Hazard & Exposure,ECFRMH_IX,Index,3.3,3.3
+546,"Poland, Rep. of",PL,POL,Climate-driven INFORM Risk Indicator,ECFRMR_IX,Index,2.4,2.1
+547,"Poland, Rep. of",PL,POL,Lack of coping capacity,ECFRMC_IX,Index,2.9,2.9
+548,"Poland, Rep. of",PL,POL,Vulnerability,ECFRMV_IX,Index,1.4,1
+549,Portugal,PT,PRT,Climate-driven Hazard & Exposure,ECFRMH_IX,Index,2.6,2.4
+550,Portugal,PT,PRT,Climate-driven INFORM Risk Indicator,ECFRMR_IX,Index,1.8,1.7
+551,Portugal,PT,PRT,Lack of coping capacity,ECFRMC_IX,Index,1.9,2
+552,Portugal,PT,PRT,Vulnerability,ECFRMV_IX,Index,1.2,1.1
+553,Qatar,QA,QAT,Climate-driven Hazard & Exposure,ECFRMH_IX,Index,1.4,1.7
+554,Qatar,QA,QAT,Climate-driven INFORM Risk Indicator,ECFRMR_IX,Index,1.6,1.8
+555,Qatar,QA,QAT,Lack of coping capacity,ECFRMC_IX,Index,2.9,2.9
+556,Qatar,QA,QAT,Vulnerability,ECFRMV_IX,Index,1,1.2
+557,Romania,RO,ROU,Climate-driven Hazard & Exposure,ECFRMH_IX,Index,4,3.8
+558,Romania,RO,ROU,Climate-driven INFORM Risk Indicator,ECFRMR_IX,Index,2.9,2.7
+559,Romania,RO,ROU,Lack of coping capacity,ECFRMC_IX,Index,3.5,3.4
+560,Romania,RO,ROU,Vulnerability,ECFRMV_IX,Index,1.7,1.6
+561,Russian Federation,RU,RUS,Climate-driven Hazard & Exposure,ECFRMH_IX,Index,6.6,6.5
+562,Russian Federation,RU,RUS,Climate-driven INFORM Risk Indicator,ECFRMR_IX,Index,3.9,3.7
+563,Russian Federation,RU,RUS,Lack of coping capacity,ECFRMC_IX,Index,4.5,4.2
+564,Russian Federation,RU,RUS,Vulnerability,ECFRMV_IX,Index,2,1.8
+565,Rwanda,RW,RWA,Climate-driven Hazard & Exposure,ECFRMH_IX,Index,3.2,3.1
+566,Rwanda,RW,RWA,Climate-driven INFORM Risk Indicator,ECFRMR_IX,Index,4.6,4.5
+567,Rwanda,RW,RWA,Lack of coping capacity,ECFRMC_IX,Index,5.1,5.1
+568,Rwanda,RW,RWA,Vulnerability,ECFRMV_IX,Index,6.1,5.9
+569,Samoa,WS,WSM,Climate-driven Hazard & Exposure,ECFRMH_IX,Index,1.9,1.9
+570,Samoa,WS,WSM,Climate-driven INFORM Risk Indicator,ECFRMR_IX,Index,3,3
+571,Samoa,WS,WSM,Lack of coping capacity,ECFRMC_IX,Index,4.2,4.2
+572,Samoa,WS,WSM,Vulnerability,ECFRMV_IX,Index,3.4,3.4
+573,"São Tomé and Príncipe, Dem. Rep. of",ST,STP,Climate-driven Hazard & Exposure,ECFRMH_IX,Index,0.1,0.1
+574,"São Tomé and Príncipe, Dem. Rep. of",ST,STP,Climate-driven INFORM Risk Indicator,ECFRMR_IX,Index,1.3,1.3
+575,"São Tomé and Príncipe, Dem. Rep. of",ST,STP,Lack of coping capacity,ECFRMC_IX,Index,5.3,5.3
+576,"São Tomé and Príncipe, Dem. Rep. of",ST,STP,Vulnerability,ECFRMV_IX,Index,4.2,4.1
+577,Saudi Arabia,SA,SAU,Climate-driven Hazard & Exposure,ECFRMH_IX,Index,3.2,3.2
+578,Saudi Arabia,SA,SAU,Climate-driven INFORM Risk Indicator,ECFRMR_IX,Index,2.4,2.5
+579,Saudi Arabia,SA,SAU,Lack of coping capacity,ECFRMC_IX,Index,3.4,3.4
+580,Saudi Arabia,SA,SAU,Vulnerability,ECFRMV_IX,Index,1.2,1.5
+581,Senegal,SN,SEN,Climate-driven Hazard & Exposure,ECFRMH_IX,Index,4.3,4.1
+582,Senegal,SN,SEN,Climate-driven INFORM Risk Indicator,ECFRMR_IX,Index,4.9,4.8
+583,Senegal,SN,SEN,Lack of coping capacity,ECFRMC_IX,Index,5.6,5.5
+584,Senegal,SN,SEN,Vulnerability,ECFRMV_IX,Index,5,5
+585,"Serbia, Rep. of",RS,SRB,Climate-driven Hazard & Exposure,ECFRMH_IX,Index,5.3,5.2
+586,"Serbia, Rep. of",RS,SRB,Climate-driven INFORM Risk Indicator,ECFRMR_IX,Index,3.6,3.6
+587,"Serbia, Rep. of",RS,SRB,Lack of coping capacity,ECFRMC_IX,Index,3.9,3.8
+588,"Serbia, Rep. of",RS,SRB,Vulnerability,ECFRMV_IX,Index,2.3,2.4
+589,Seychelles,SC,SYC,Climate-driven Hazard & Exposure,ECFRMH_IX,Index,0.1,0.1
+590,Seychelles,SC,SYC,Climate-driven INFORM Risk Indicator,ECFRMR_IX,Index,0.8,0.7
+591,Seychelles,SC,SYC,Lack of coping capacity,ECFRMC_IX,Index,3.2,3
+592,Seychelles,SC,SYC,Vulnerability,ECFRMV_IX,Index,1.6,1.2
+593,Sierra Leone,SL,SLE,Climate-driven Hazard & Exposure,ECFRMH_IX,Index,2.1,2.1
+594,Sierra Leone,SL,SLE,Climate-driven INFORM Risk Indicator,ECFRMR_IX,Index,4.3,4.4
+595,Sierra Leone,SL,SLE,Lack of coping capacity,ECFRMC_IX,Index,6.9,6.9
+596,Sierra Leone,SL,SLE,Vulnerability,ECFRMV_IX,Index,5.3,5.7
+597,Singapore,SG,SGP,Climate-driven Hazard & Exposure,ECFRMH_IX,Index,0.1,0.1
+598,Singapore,SG,SGP,Climate-driven INFORM Risk Indicator,ECFRMR_IX,Index,0.3,0.3
+599,Singapore,SG,SGP,Lack of coping capacity,ECFRMC_IX,Index,1,1.1
+600,Singapore,SG,SGP,Vulnerability,ECFRMV_IX,Index,0.3,0.3
+601,Slovak Rep.,SK,SVK,Climate-driven Hazard & Exposure,ECFRMH_IX,Index,3.3,3.3
+602,Slovak Rep.,SK,SVK,Climate-driven INFORM Risk Indicator,ECFRMR_IX,Index,2.1,2
+603,Slovak Rep.,SK,SVK,Lack of coping capacity,ECFRMC_IX,Index,2.7,2.7
+604,Slovak Rep.,SK,SVK,Vulnerability,ECFRMV_IX,Index,1,0.9
+605,"Slovenia, Rep. of",SI,SVN,Climate-driven Hazard & Exposure,ECFRMH_IX,Index,1.8,1.7
+606,"Slovenia, Rep. of",SI,SVN,Climate-driven INFORM Risk Indicator,ECFRMR_IX,Index,1.2,1.2
+607,"Slovenia, Rep. of",SI,SVN,Lack of coping capacity,ECFRMC_IX,Index,1.6,1.6
+608,"Slovenia, Rep. of",SI,SVN,Vulnerability,ECFRMV_IX,Index,0.6,0.6
+609,Solomon Islands,SB,SLB,Climate-driven Hazard & Exposure,ECFRMH_IX,Index,2.6,2.6
+610,Solomon Islands,SB,SLB,Climate-driven INFORM Risk Indicator,ECFRMR_IX,Index,4.1,4.1
+611,Solomon Islands,SB,SLB,Lack of coping capacity,ECFRMC_IX,Index,6.6,6.5
+612,Solomon Islands,SB,SLB,Vulnerability,ECFRMV_IX,Index,4.1,4
+613,Somalia,SO,SOM,Climate-driven Hazard & Exposure,ECFRMH_IX,Index,7.7,7.7
+614,Somalia,SO,SOM,Climate-driven INFORM Risk Indicator,ECFRMR_IX,Index,8.6,8.4
+615,Somalia,SO,SOM,Lack of coping capacity,ECFRMC_IX,Index,8.9,8.8
+616,Somalia,SO,SOM,Vulnerability,ECFRMV_IX,Index,9.3,8.8
+617,South Africa,ZA,ZAF,Climate-driven Hazard & Exposure,ECFRMH_IX,Index,5.8,5.9
+618,South Africa,ZA,ZAF,Climate-driven INFORM Risk Indicator,ECFRMR_IX,Index,4.9,4.8
+619,South Africa,ZA,ZAF,Lack of coping capacity,ECFRMC_IX,Index,4.2,4.2
+620,South Africa,ZA,ZAF,Vulnerability,ECFRMV_IX,Index,4.7,4.5
+621,"South Sudan, Rep. of",SS,SSD,Climate-driven Hazard & Exposure,ECFRMH_IX,Index,4,4
+622,"South Sudan, Rep. of",SS,SSD,Climate-driven INFORM Risk Indicator,ECFRMR_IX,Index,6.8,6.9
+623,"South Sudan, Rep. of",SS,SSD,Lack of coping capacity,ECFRMC_IX,Index,9.4,9.5
+624,"South Sudan, Rep. of",SS,SSD,Vulnerability,ECFRMV_IX,Index,8.5,8.8
+625,Spain,ES,ESP,Climate-driven Hazard & Exposure,ECFRMH_IX,Index,3.6,3.4
+626,Spain,ES,ESP,Climate-driven INFORM Risk Indicator,ECFRMR_IX,Index,2.5,2.4
+627,Spain,ES,ESP,Lack of coping capacity,ECFRMC_IX,Index,1.8,1.7
+628,Spain,ES,ESP,Vulnerability,ECFRMV_IX,Index,2.3,2.4
+629,Sri Lanka,LK,LKA,Climate-driven Hazard & Exposure,ECFRMH_IX,Index,4.5,4.6
+630,Sri Lanka,LK,LKA,Climate-driven INFORM Risk Indicator,ECFRMR_IX,Index,3.8,3.8
+631,Sri Lanka,LK,LKA,Lack of coping capacity,ECFRMC_IX,Index,4,4
+632,Sri Lanka,LK,LKA,Vulnerability,ECFRMV_IX,Index,3.1,3
+633,St. Kitts and Nevis,KN,KNA,Climate-driven Hazard & Exposure,ECFRMH_IX,Index,3.1,3.1
+634,St. Kitts and Nevis,KN,KNA,Climate-driven INFORM Risk Indicator,ECFRMR_IX,Index,2.3,2.5
+635,St. Kitts and Nevis,KN,KNA,Lack of coping capacity,ECFRMC_IX,Index,2.9,2.9
+636,St. Kitts and Nevis,KN,KNA,Vulnerability,ECFRMV_IX,Index,1.4,1.7
+637,St. Lucia,LC,LCA,Climate-driven Hazard & Exposure,ECFRMH_IX,Index,2,2
+638,St. Lucia,LC,LCA,Climate-driven INFORM Risk Indicator,ECFRMR_IX,Index,2.5,2.5
+639,St. Lucia,LC,LCA,Lack of coping capacity,ECFRMC_IX,Index,3.9,3.8
+640,St. Lucia,LC,LCA,Vulnerability,ECFRMV_IX,Index,2.1,2.1
+641,St. Vincent and the Grenadines,VC,VCT,Climate-driven Hazard & Exposure,ECFRMH_IX,Index,1.8,1.8
+642,St. Vincent and the Grenadines,VC,VCT,Climate-driven INFORM Risk Indicator,ECFRMR_IX,Index,2.2,2.8
+643,St. Vincent and the Grenadines,VC,VCT,Lack of coping capacity,ECFRMC_IX,Index,3.6,3.6
+644,St. Vincent and the Grenadines,VC,VCT,Vulnerability,ECFRMV_IX,Index,1.7,3.4
+645,Sudan,SD,SDN,Climate-driven Hazard & Exposure,ECFRMH_IX,Index,5.5,5.3
+646,Sudan,SD,SDN,Climate-driven INFORM Risk Indicator,ECFRMR_IX,Index,6.3,6.3
+647,Sudan,SD,SDN,Lack of coping capacity,ECFRMC_IX,Index,6.7,6.7
+648,Sudan,SD,SDN,Vulnerability,ECFRMV_IX,Index,6.9,7
+649,Suriname,SR,SUR,Climate-driven Hazard & Exposure,ECFRMH_IX,Index,4.6,4.7
+650,Suriname,SR,SUR,Climate-driven INFORM Risk Indicator,ECFRMR_IX,Index,4,4.1
+651,Suriname,SR,SUR,Lack of coping capacity,ECFRMC_IX,Index,5,5.1
+652,Suriname,SR,SUR,Vulnerability,ECFRMV_IX,Index,2.7,2.8
+653,Sweden,SE,SWE,Climate-driven Hazard & Exposure,ECFRMH_IX,Index,1.5,1.5
+654,Sweden,SE,SWE,Climate-driven INFORM Risk Indicator,ECFRMR_IX,Index,1.9,1.8
+655,Sweden,SE,SWE,Lack of coping capacity,ECFRMC_IX,Index,1.4,1.4
+656,Sweden,SE,SWE,Vulnerability,ECFRMV_IX,Index,3.1,3
+657,Switzerland,CH,CHE,Climate-driven Hazard & Exposure,ECFRMH_IX,Index,2,2
+658,Switzerland,CH,CHE,Climate-driven INFORM Risk Indicator,ECFRMR_IX,Index,1.6,1.7
+659,Switzerland,CH,CHE,Lack of coping capacity,ECFRMC_IX,Index,0.9,0.9
+660,Switzerland,CH,CHE,Vulnerability,ECFRMV_IX,Index,2.4,2.5
+661,Syrian Arab Rep.,SY,SYR,Climate-driven Hazard & Exposure,ECFRMH_IX,Index,4.8,4.8
+662,Syrian Arab Rep.,SY,SYR,Climate-driven INFORM Risk Indicator,ECFRMR_IX,Index,6,5.8
+663,Syrian Arab Rep.,SY,SYR,Lack of coping capacity,ECFRMC_IX,Index,5.7,5.4
+664,Syrian Arab Rep.,SY,SYR,Vulnerability,ECFRMV_IX,Index,7.7,7.6
+665,"Tajikistan, Rep. of",TJ,TJK,Climate-driven Hazard & Exposure,ECFRMH_IX,Index,5,5
+666,"Tajikistan, Rep. of",TJ,TJK,Climate-driven INFORM Risk Indicator,ECFRMR_IX,Index,4.4,4.4
+667,"Tajikistan, Rep. of",TJ,TJK,Lack of coping capacity,ECFRMC_IX,Index,5,5
+668,"Tajikistan, Rep. of",TJ,TJK,Vulnerability,ECFRMV_IX,Index,3.5,3.4
+669,"Tanzania, United Rep. of",TZ,TZA,Climate-driven Hazard & Exposure,ECFRMH_IX,Index,4.3,4.2
+670,"Tanzania, United Rep. of",TZ,TZA,Climate-driven INFORM Risk Indicator,ECFRMR_IX,Index,5.3,5.3
+671,"Tanzania, United Rep. of",TZ,TZA,Lack of coping capacity,ECFRMC_IX,Index,6.2,6.3
+672,"Tanzania, United Rep. of",TZ,TZA,Vulnerability,ECFRMV_IX,Index,5.7,5.6
+673,Thailand,TH,THA,Climate-driven Hazard & Exposure,ECFRMH_IX,Index,6.8,6.8
+674,Thailand,TH,THA,Climate-driven INFORM Risk Indicator,ECFRMR_IX,Index,4.3,4.3
+675,Thailand,TH,THA,Lack of coping capacity,ECFRMC_IX,Index,4,3.9
+676,Thailand,TH,THA,Vulnerability,ECFRMV_IX,Index,3,3
+677,"Timor-Leste, Dem. Rep. of",TL,TLS,Climate-driven Hazard & Exposure,ECFRMH_IX,Index,2.5,2.5
+678,"Timor-Leste, Dem. Rep. of",TL,TLS,Climate-driven INFORM Risk Indicator,ECFRMR_IX,Index,4,4.2
+679,"Timor-Leste, Dem. Rep. of",TL,TLS,Lack of coping capacity,ECFRMC_IX,Index,6.1,5.9
+680,"Timor-Leste, Dem. Rep. of",TL,TLS,Vulnerability,ECFRMV_IX,Index,4.2,5.1
+681,Togo,TG,TGO,Climate-driven Hazard & Exposure,ECFRMH_IX,Index,2.6,2.6
+682,Togo,TG,TGO,Climate-driven INFORM Risk Indicator,ECFRMR_IX,Index,4.7,4.6
+683,Togo,TG,TGO,Lack of coping capacity,ECFRMC_IX,Index,7.7,7.7
+684,Togo,TG,TGO,Vulnerability,ECFRMV_IX,Index,5.1,5
+685,Tonga,TO,TON,Climate-driven Hazard & Exposure,ECFRMH_IX,Index,2.8,2.8
+686,Tonga,TO,TON,Climate-driven INFORM Risk Indicator,ECFRMR_IX,Index,3.8,3.4
+687,Tonga,TO,TON,Lack of coping capacity,ECFRMC_IX,Index,4.2,4.1
+688,Tonga,TO,TON,Vulnerability,ECFRMV_IX,Index,4.6,3.4
+689,Trinidad and Tobago,TT,TTO,Climate-driven Hazard & Exposure,ECFRMH_IX,Index,2,2
+690,Trinidad and Tobago,TT,TTO,Climate-driven INFORM Risk Indicator,ECFRMR_IX,Index,2.6,2.7
+691,Trinidad and Tobago,TT,TTO,Lack of coping capacity,ECFRMC_IX,Index,3.3,3.3
+692,Trinidad and Tobago,TT,TTO,Vulnerability,ECFRMV_IX,Index,2.8,3
+693,Tunisia,TN,TUN,Climate-driven Hazard & Exposure,ECFRMH_IX,Index,2.9,2.8
+694,Tunisia,TN,TUN,Climate-driven INFORM Risk Indicator,ECFRMR_IX,Index,2.9,3
+695,Tunisia,TN,TUN,Lack of coping capacity,ECFRMC_IX,Index,4.7,4.6
+696,Tunisia,TN,TUN,Vulnerability,ECFRMV_IX,Index,1.8,2.1
+697,Turkey,TR,TUR,Climate-driven Hazard & Exposure,ECFRMH_IX,Index,3.2,3.1
+698,Turkey,TR,TUR,Climate-driven INFORM Risk Indicator,ECFRMR_IX,Index,3.7,3.6
+699,Turkey,TR,TUR,Lack of coping capacity,ECFRMC_IX,Index,3.2,3.1
+700,Turkey,TR,TUR,Vulnerability,ECFRMV_IX,Index,4.9,4.8
+701,Turkmenistan,TM,TKM,Climate-driven Hazard & Exposure,ECFRMH_IX,Index,4.2,4
+702,Turkmenistan,TM,TKM,Climate-driven INFORM Risk Indicator,ECFRMR_IX,Index,3,2.9
+703,Turkmenistan,TM,TKM,Lack of coping capacity,ECFRMC_IX,Index,5.7,5.8
+704,Turkmenistan,TM,TKM,Vulnerability,ECFRMV_IX,Index,1.1,1.1
+705,Tuvalu,TV,TUV,Climate-driven Hazard & Exposure,ECFRMH_IX,Index,0.2,0.2
+706,Tuvalu,TV,TUV,Climate-driven INFORM Risk Indicator,ECFRMR_IX,Index,1.6,1.7
+707,Tuvalu,TV,TUV,Lack of coping capacity,ECFRMC_IX,Index,5.1,5
+708,Tuvalu,TV,TUV,Vulnerability,ECFRMV_IX,Index,3.7,4.7
+709,Uganda,UG,UGA,Climate-driven Hazard & Exposure,ECFRMH_IX,Index,4.1,4.2
+710,Uganda,UG,UGA,Climate-driven INFORM Risk Indicator,ECFRMR_IX,Index,5.9,5.8
+711,Uganda,UG,UGA,Lack of coping capacity,ECFRMC_IX,Index,7,7
+712,Uganda,UG,UGA,Vulnerability,ECFRMV_IX,Index,7,6.7
+713,Ukraine,UA,UKR,Climate-driven Hazard & Exposure,ECFRMH_IX,Index,3.9,3.9
+714,Ukraine,UA,UKR,Climate-driven INFORM Risk Indicator,ECFRMR_IX,Index,4.2,4.1
+715,Ukraine,UA,UKR,Lack of coping capacity,ECFRMC_IX,Index,4.7,4.5
+716,Ukraine,UA,UKR,Vulnerability,ECFRMV_IX,Index,3.9,3.8
+717,United Arab Emirates,AE,ARE,Climate-driven Hazard & Exposure,ECFRMH_IX,Index,3.6,3.6
+718,United Arab Emirates,AE,ARE,Climate-driven INFORM Risk Indicator,ECFRMR_IX,Index,2.1,1.9
+719,United Arab Emirates,AE,ARE,Lack of coping capacity,ECFRMC_IX,Index,1.8,1.8
+720,United Arab Emirates,AE,ARE,Vulnerability,ECFRMV_IX,Index,1.4,1.1
+721,United Kingdom,GB,GBR,Climate-driven Hazard & Exposure,ECFRMH_IX,Index,2.2,2.2
+722,United Kingdom,GB,GBR,Climate-driven INFORM Risk Indicator,ECFRMR_IX,Index,2,2
+723,United Kingdom,GB,GBR,Lack of coping capacity,ECFRMC_IX,Index,1.6,1.6
+724,United Kingdom,GB,GBR,Vulnerability,ECFRMV_IX,Index,2.2,2.2
+725,United States,US,USA,Climate-driven Hazard & Exposure,ECFRMH_IX,Index,6.3,6.3
+726,United States,US,USA,Climate-driven INFORM Risk Indicator,ECFRMR_IX,Index,3.4,3.4
+727,United States,US,USA,Lack of coping capacity,ECFRMC_IX,Index,2.1,2.1
+728,United States,US,USA,Vulnerability,ECFRMV_IX,Index,2.9,3
+729,Uruguay,UY,URY,Climate-driven Hazard & Exposure,ECFRMH_IX,Index,2.1,2.1
+730,Uruguay,UY,URY,Climate-driven INFORM Risk Indicator,ECFRMR_IX,Index,2.4,2.4
+731,Uruguay,UY,URY,Lack of coping capacity,ECFRMC_IX,Index,2.7,2.7
+732,Uruguay,UY,URY,Vulnerability,ECFRMV_IX,Index,2.3,2.5
+733,"Uzbekistan, Rep. of",UZ,UZB,Climate-driven Hazard & Exposure,ECFRMH_IX,Index,4.9,4.9
+734,"Uzbekistan, Rep. of",UZ,UZB,Climate-driven INFORM Risk Indicator,ECFRMR_IX,Index,3.4,3.4
+735,"Uzbekistan, Rep. of",UZ,UZB,Lack of coping capacity,ECFRMC_IX,Index,3.9,3.9
+736,"Uzbekistan, Rep. of",UZ,UZB,Vulnerability,ECFRMV_IX,Index,2.1,2
+737,Vanuatu,VU,VUT,Climate-driven Hazard & Exposure,ECFRMH_IX,Index,3.5,3.5
+738,Vanuatu,VU,VUT,Climate-driven INFORM Risk Indicator,ECFRMR_IX,Index,4.2,4.5
+739,Vanuatu,VU,VUT,Lack of coping capacity,ECFRMC_IX,Index,5.6,5.6
+740,Vanuatu,VU,VUT,Vulnerability,ECFRMV_IX,Index,3.7,4.6
+741,"Venezuela, Rep. Bolivariana de",VE,VEN,Climate-driven Hazard & Exposure,ECFRMH_IX,Index,4.2,4.3
+742,"Venezuela, Rep. Bolivariana de",VE,VEN,Climate-driven INFORM Risk Indicator,ECFRMR_IX,Index,4.3,4.4
+743,"Venezuela, Rep. Bolivariana de",VE,VEN,Lack of coping capacity,ECFRMC_IX,Index,4.9,4.9
+744,"Venezuela, Rep. Bolivariana de",VE,VEN,Vulnerability,ECFRMV_IX,Index,3.9,4
+745,Vietnam,VN,VNM,Climate-driven Hazard & Exposure,ECFRMH_IX,Index,8.2,8.2
+746,Vietnam,VN,VNM,Climate-driven INFORM Risk Indicator,ECFRMR_IX,Index,4.2,4.2
+747,Vietnam,VN,VNM,Lack of coping capacity,ECFRMC_IX,Index,4.2,4.2
+748,Vietnam,VN,VNM,Vulnerability,ECFRMV_IX,Index,2.2,2.2
+749,West Bank and Gaza,PS,PSE,Climate-driven Hazard & Exposure,ECFRMH_IX,Index,0.6,0.6
+750,West Bank and Gaza,PS,PSE,Climate-driven INFORM Risk Indicator,ECFRMR_IX,Index,2.5,2.5
+751,West Bank and Gaza,PS,PSE,Lack of coping capacity,ECFRMC_IX,Index,4.1,4
+752,West Bank and Gaza,PS,PSE,Vulnerability,ECFRMV_IX,Index,6.4,6.3
+753,"Yemen, Rep. of",YE,YEM,Climate-driven Hazard & Exposure,ECFRMH_IX,Index,3.5,3.3
+754,"Yemen, Rep. of",YE,YEM,Climate-driven INFORM Risk Indicator,ECFRMR_IX,Index,6.1,6
+755,"Yemen, Rep. of",YE,YEM,Lack of coping capacity,ECFRMC_IX,Index,8,7.9
+756,"Yemen, Rep. of",YE,YEM,Vulnerability,ECFRMV_IX,Index,8,8.2
+757,Zambia,ZM,ZMB,Climate-driven Hazard & Exposure,ECFRMH_IX,Index,3.6,3.6
+758,Zambia,ZM,ZMB,Climate-driven INFORM Risk Indicator,ECFRMR_IX,Index,5,5
+759,Zambia,ZM,ZMB,Lack of coping capacity,ECFRMC_IX,Index,6,6
+760,Zambia,ZM,ZMB,Vulnerability,ECFRMV_IX,Index,5.7,5.8
+761,Zimbabwe,ZW,ZWE,Climate-driven Hazard & Exposure,ECFRMH_IX,Index,6.2,6.4
+762,Zimbabwe,ZW,ZWE,Climate-driven INFORM Risk Indicator,ECFRMR_IX,Index,6,6.1
+763,Zimbabwe,ZW,ZWE,Lack of coping capacity,ECFRMC_IX,Index,5.9,5.9
+764,Zimbabwe,ZW,ZWE,Vulnerability,ECFRMV_IX,Index,5.9,6.1
